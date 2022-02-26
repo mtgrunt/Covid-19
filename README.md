@@ -1,3 +1,3 @@
-# I'm updating Covid-19.
+# Second branch.
 #
 #
